@@ -1,0 +1,22 @@
+body {
+  background: #ccc;
+}
+/* .container {
+  max-width: 1000px;
+} */
+#mainContainer {
+  background: #fff;
+  min-height: 100vh;
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+table {
+  margin-bottom: 20px;
+  width: 100%;
+}
+th, td {
+  border: #ccc 1px solid;
+  padding: 5px;
+}
